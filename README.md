@@ -15,57 +15,6 @@ Nous espérons que ce dictionnaire sera un outil utile pour les personnes intér
 ---
 ###
 
-## Installation avec Flutter + Visual Studio Code
-
-### Prérequis
-- Avoir installé [Flutter](https://flutter.dev/docs/get-started/install)
-- Avoir installé [Visual Studio Code](https://code.visualstudio.com/download)
-
-### Etape 1 : Cloner le référentiel
-Clonez le référentiel sur votre ordinateur en utilisant la commande suivante dans votre terminal :
-
-`git clone https://github.com/LilianOZOUAKI/blngm.git`
-
-### Etape 2 : Ouvrir le projet dans Visual Studio Code
-Ouvrez __Visual Studio Code__ et cliquez sur __"File" -> "Open Folder"__ et sélectionnez le dossier du projet cloné.
-
-### Etape 3 : Installer les dépendances
-Ouvrez le terminal de __Visual Studio Code__ en cliquant sur __"View" -> "Terminal"__.
-Entrez la commande suivante pour installer les dépendances nécessaires à l'application :
-
-`flutter packages get`
-
-### Etape 4 : Exécuter l'application
-Une fois que les dépendances sont installées, vous pouvez exécuter l'application en utilisant la commande suivante dans le terminal :
-
-`flutter run`
-
-## Installation avec Android Studio
-
-### Prérequis
-- Avoir installé [Flutter](https://flutter.dev/docs/get-started/install)
-- Avoir installé [Android Studio](https://developer.android.com/studio)
-
-### Etape 1 : Cloner le référentiel
-Clonez le référentiel sur votre ordinateur en utilisant la commande suivante dans votre terminal :
-
-`git clone https://github.com/LilianOZOUAKI/blngm.git`
-
-### Etape 2 : Ouvrir le projet dans Android Studio
-Ouvrez __Android Studio__ et cliquez sur __"Open an existing Android Studio project"__. Sélectionnez le dossier du projet cloné.
-
-### Etape 3 : Installer les dépendances
-Dans __Android Studio__, cliquez sur __"File" -> "Settings" -> "Languages & Frameworks" -> "Flutter"__. 
-Assurez-vous que __Flutter__ est correctement configuré.
-
-### Etape 4 : Exécuter l'application
-Une fois que __Flutter__ est configuré, vous pouvez exécuter l'application en utilisant le bouton __"Run"__ dans Android Studio.
-
-Note : Assurez-vous d'avoir un appareil Android ou un émulateur connecté pour exécuter l'application.
-
----
-###
-
 ## Utilisation
 
 Dans le cadre d'un dictionnaire de langue, les cas d'utilisation les plus importants incluent :
