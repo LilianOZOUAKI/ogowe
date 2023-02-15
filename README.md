@@ -1,8 +1,6 @@
 # [Communauté OGOWE](https://lilianozouaki.github.io/ogowe/#/)
-
 Les Langues des peuples du Gabon
-
-##### fang teke kongo ogowe akoa bakola bakuyi irimba mwesa bubi-benga makaa-njem myene kota-kele tsogo-apindji sira-punu nzebi-duma mbede baka-gundi
+###### Mbolo wani beŋga bubi meke mvɛɲ okak nzaman ntumu atsi ʃiwa makina bɛkwil mpongwe nkomi galwa enenga orungu ajumba akɛlɛ bakoya beŋga ikota mahoŋgwe metombolo lendambomo ndaʃa sɛki ʃake oshamayi lisiɣu tumbidi ungɔm wumbu ɣetsɔɣɔ ɣepinzipinzi okande ɣeꞵoꞵe ɣehimbaka ɣeꞵia eboŋgwɛ ɣisir isaŋgu ipunu ilumbu ɣiꞵuŋgu ɣiꞵarama ŋgubi ngowe inzɛbi iꞵili liduma itsengi liwanzi lembere lembaama lekaniŋi lindumu lateɣ lintsitsɛɣɛ baka kikongo akoa bakola bakuyi irimba mwesa
 
 ## Introduction
 
@@ -158,7 +156,7 @@ En utilisant ce projet, vous acceptez les termes et conditions décrits dans la 
 
 Ce projet a été développé grâce à la contribution de :
 
-- [Nom de la personne 1](lien vers le profil)
+- [LilianOZOUAKI](https://github.com/LilianOZOUAKI)
 - [Nom de la personne 2](lien vers le profil)
 - [Nom de la personne 3](lien vers le profil)
 
@@ -188,5 +186,3 @@ Enfin, nous tenons à remercier tous les contributeurs pour leur soutien dans le
 Merci d'avoir utilisé ce projet !
 
 __VERSION 11.02.2023__
-
-###### Mbolo wani beŋga bubi meke mvɛɲ okak nzaman ntumu atsi ʃiwa makina bɛkwil mpongwe nkomi galwa enenga orungu ajumba akɛlɛ bakoya beŋga ikota mahoŋgwe metombolo lendambomo ndaʃa sɛki ʃake oshamayi lisiɣu tumbidi ungɔm wumbu ɣetsɔɣɔ ɣepinzipinzi okande ɣeꞵoꞵe ɣehimbaka ɣeꞵia eboŋgwɛ ɣisir isaŋgu ipunu ilumbu ɣiꞵuŋgu ɣiꞵarama ŋgubi ngowe inzɛbi iꞵili liduma itsengi liwanzi lembere lembaama lekaniŋi lindumu lateɣ lintsitsɛɣɛ baka kikongo akoa bakola bakuyi irimba mwesa
