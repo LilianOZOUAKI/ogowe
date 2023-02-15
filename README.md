@@ -2,6 +2,8 @@
 
 Les Langues des peuples du Gabon
 
+##### fang teke kongo ogowe akoa bakola bakuyi irimba mwesa bubi-benga makaa-njem myene kota-kele tsogo-apindji sira-punu nzebi-duma mbede baka-gundi
+
 ## Introduction
 
 Bienvenue dans ce dictionnaire de langue des peuples du Gabon!
