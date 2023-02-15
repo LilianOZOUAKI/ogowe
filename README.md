@@ -188,3 +188,5 @@ Enfin, nous tenons à remercier tous les contributeurs pour leur soutien dans le
 Merci d'avoir utilisé ce projet !
 
 __VERSION 11.02.2023__
+
+###### Mbolo wani beŋga bubi meke mvɛɲ okak nzaman ntumu atsi ʃiwa makina bɛkwil mpongwe nkomi galwa enenga orungu ajumba akɛlɛ bakoya beŋga ikota mahoŋgwe metombolo lendambomo ndaʃa sɛki ʃake oshamayi lisiɣu tumbidi ungɔm wumbu ɣetsɔɣɔ ɣepinzipinzi okande ɣeꞵoꞵe ɣehimbaka ɣeꞵia eboŋgwɛ ɣisir isaŋgu ipunu ilumbu ɣiꞵuŋgu ɣiꞵarama ŋgubi ngowe inzɛbi iꞵili liduma itsengi liwanzi lembere lembaama lekaniŋi lindumu lateɣ lintsitsɛɣɛ baka kikongo akoa bakola bakuyi irimba mwesa
