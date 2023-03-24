@@ -168,7 +168,7 @@ Nous tenons également à remercier les sources suivantes qui ont été utilisé
 
 ## Problèmes et améliorations
 
-Si vous rencontrez des problèmes avec le dictionnaire de langue du Gabon, veuillez les signaler en créant une issue sur notre [repository GitHub](https://github.com/nom_du_repository/issues). 
+Si vous rencontrez des problèmes avec le dictionnaire de langue du Gabon, veuillez les signaler en créant une issue sur notre [repository GitHub](https://github.com/LilianOZOUAKI/ogowe/issues). 
 
 Vous pouvez également suggérer des améliorations pour ce projet en soumettant une pull request avec vos modifications sur le repository GitHub.
 
